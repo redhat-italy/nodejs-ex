@@ -1,4 +1,17 @@
+# hack.developers - Hackaton Pubblica Amministrazione - Openshift PHP Quickstart
 
+You'll find below few quick commands for executing this sample application inside Openshift:
+1. First of all: fork this repo
+2. Make your edits on your repo
+3. Grab your repo url and go to: https://justcodeon.it
+4. Login with your Github account and ask us for a project through the Hackaton #Slack channel
+5. Once you'll access to a project click: "Add to project"
+6. Select Javascript, then choose desired version
+7. Finally choose a name for your application and past your Github repo url
+
+That's all!
+
+For more information, please go on reading the full sample code documentation:
 
 <!-- toc -->
 
