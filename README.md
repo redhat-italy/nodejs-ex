@@ -1,4 +1,4 @@
-# hack.developers - Hackaton Pubblica Amministrazione - Openshift PHP Quickstart
+# hack.developers - Hackaton Pubblica Amministrazione - Openshift NodeJS Quickstart
 
 You'll find below few quick commands for executing this sample application inside Openshift:
 1. First of all: fork this repo
